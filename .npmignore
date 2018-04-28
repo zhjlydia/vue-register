@@ -1,0 +1,27 @@
+# Tests
+test
+
+# Build tools
+.travis.yml
+
+# Linters
+.eslintrc.js
+.eslintignore
+
+# Editor settings
+.editorconfig
+.vscode
+
+# Istanbul command line interface
+.nyc_output
+.coverage
+coverage
+
+# jsdoc-to-markdown template
+jsdoc2md
+
+# Benchmarks
+benchmark
+
+# debugger
+src/__debug.js

@@ -1,0 +1,32 @@
+{
+  "name": "vue-register",
+  "description": "The require hook for load SFC (single-file component or *.vue) files.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "huijuan zhou <zhjlydia@foxmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhjlydia/vue-register.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhjlydia/vue-register/issues"
+  },
+  "homepage": "https://github.com/zhjlydia/vuegister",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue-register"
+  ],
+  "main": "src/index",
+  "devDependencies": {
+    "vue-template-compiler": "2.5.16",
+    "babel-core": "6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.26.0",
+    "babel-register": "6.26.0"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">=4.7.0"
+  },
+  "dependencies": {}
+}
